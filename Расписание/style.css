@@ -1,0 +1,19 @@
+.underline{
+text-decoration: underline ;
+text-decoration-style:solid ;
+text-decoration-color:#000000;
+color:green;
+}
+li {
+	border-collapse:collapse;
+	text-align:center;
+	border: 3px;
+	border-style:solid;
+	color:black;
+	width: 200px;
+	margin:0px;
+}
+.fornav {
+		list-style-type:none;
+		text-align:center;
+	}
